@@ -26,6 +26,19 @@ XML
             app:cross_margin="10dp"
             app:cross_width="2dp" />
 
+Listener
+=======
+    crossButton.setCrossButtonStateChangeListener(new CrossAnimationButton.OnCrossButtonStateChangedListener() {
+                @Override
+                public void onExpanded() {
+                    //todo 
+                }
+    
+                @Override
+                public void onCollapsed() {
+                    //todo
+                }
+            });
 License
 =======
 

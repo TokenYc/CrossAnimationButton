@@ -18,12 +18,12 @@ public class MainActivity extends AppCompatActivity {
         crossButton.setCrossButtonStateChangeListener(new CrossAnimationButton.OnCrossButtonStateChangedListener() {
             @Override
             public void onExpanded() {
-                Toast.makeText(MainActivity.this, "onExpanded", Toast.LENGTH_SHORT).show();
+                //todo
             }
 
             @Override
             public void onCollapsed() {
-                Toast.makeText(MainActivity.this, "onCollapsed", Toast.LENGTH_SHORT).show();
+                //todo
             }
         });
     }
