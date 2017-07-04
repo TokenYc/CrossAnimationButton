@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="cross_button_width">4dp</dimen>
+    <dimen name="cross_button_margin">10dp</dimen>
+</resources>
