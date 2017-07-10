@@ -9,7 +9,7 @@ Just add the dependency to your `build.gradle`:
 
 ```groovy
 dependencies {
-    compile 'com.archeryc:crossanimationbutton:1.0'
+    compile 'com.archeryc:crossanimationbutton:1.1'
 }
 ```
 
