@@ -4,5 +4,6 @@
         <attr name="cross_margin" format="dimension" />
         <attr name="cross_color" format="color" />
         <attr name="cross_width" format="dimension" />
+        <attr name="cross_corner" format="dimension" />
     </declare-styleable>
 </resources>

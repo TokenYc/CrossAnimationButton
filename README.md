@@ -24,6 +24,7 @@ XML
             android:layout_gravity="center"
             app:cross_color="#817a7a"
             app:cross_margin="10dp"
+            app:cross_corner="5dp"
             app:cross_width="2dp" />
 
 Listener
